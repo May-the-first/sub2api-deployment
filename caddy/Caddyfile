@@ -4,5 +4,5 @@
 
 {$DOMAIN} {
   encode zstd gzip
-  reverse_proxy sub2api:18080
+  reverse_proxy sub2api:8080
 }
